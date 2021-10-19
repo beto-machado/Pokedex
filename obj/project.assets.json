@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/devbe/Desktop/Beto.dev/desenvolvimento_de_sistemas/Programação Web II - 2 modulo/pokedex/Pokedex.csproj",
+      "projectUniqueName": "/mnt/c/Users/devbe/Desktop/Beto.dev/desenvolvimento_de_sistemas/Programação Web II - 2 modulo/pokedex/Pokedex/Pokedex.csproj",
       "projectName": "Pokedex",
-      "projectPath": "/mnt/c/Users/devbe/Desktop/Beto.dev/desenvolvimento_de_sistemas/Programação Web II - 2 modulo/pokedex/Pokedex.csproj",
+      "projectPath": "/mnt/c/Users/devbe/Desktop/Beto.dev/desenvolvimento_de_sistemas/Programação Web II - 2 modulo/pokedex/Pokedex/Pokedex.csproj",
       "packagesPath": "/home/devbeto/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/devbe/Desktop/Beto.dev/desenvolvimento_de_sistemas/Programação Web II - 2 modulo/pokedex/obj/",
+      "outputPath": "/mnt/c/Users/devbe/Desktop/Beto.dev/desenvolvimento_de_sistemas/Programação Web II - 2 modulo/pokedex/Pokedex/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/devbeto/.nuget/NuGet/NuGet.Config"

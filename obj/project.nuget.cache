@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UBJeptNoKQk2lAMSBisfBPodRyLL2kyOhN15sIgrIybET5asJuauVWTp+Az4LLofRrGTUvxJqhFoMbG2X04Yog==",
+  "dgSpecHash": "VVg+0LkHNl95BQ5e2WUPwhnrAX1wYqG7iRZkBNeX2Tkm+OV+A1io9BUJiKQr0Qgbq12jOGj6pl8GHR/OqTCalQ==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/devbe/Desktop/Beto.dev/desenvolvimento_de_sistemas/Programação Web II - 2 modulo/pokedex/Pokedex.csproj",
+  "projectFilePath": "/mnt/c/Users/devbe/Desktop/Beto.dev/desenvolvimento_de_sistemas/Programação Web II - 2 modulo/pokedex/Pokedex/Pokedex.csproj",
   "expectedPackageFiles": [
     "/home/devbeto/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/5.0.8/microsoft.aspnetcore.mvc.razor.extensions.5.0.8.nupkg.sha512",
     "/home/devbeto/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/5.0.8/microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.8.nupkg.sha512",
